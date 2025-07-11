@@ -3,7 +3,7 @@ const client = new Discord.Client()
   
 
 client.on("ready", () => {
-  console.log("Estou online!ed!@!!rtd!d!")  
+  console.log("Estou online!ed!@!!rdtd!d!")  
 })
 
 client.on("message", (message) =>{ 
