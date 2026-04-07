@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
-  
+  //oi
 
 client.on("ready", () => {
   console.log("Estou online!deeedd")  
